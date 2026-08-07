@@ -1,0 +1,7 @@
+{
+  "name": "DB-Hotel-UP Management System",
+  "description": "A comprehensive property management system for DB-Hotel, featuring dashboard analytics, booking management, room status tracking, and QR/Cash payment processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

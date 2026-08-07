@@ -1,11 +1,14 @@
-<div align="center">
+# DB-Hotel-UP Management System (Android)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern Android property management system (PMS) built with Kotlin, Jetpack Compose, Material Design 3, and Room Database.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Dashboard / Room Grid**: Real-time room status tracking (Available, Occupied, Cleaning, Maintenance) with building & status filters and quick check-in / check-out actions.
+- **Rooms Management**: Complete catalog of hotel rooms with floor, building, capacity, and pricing controls.
+- **Bookings & Check-in**: Reservation workflow with PromptPay QR code generation and instant payment receipt confirmation.
+- **Customer CRM**: Regular and VIP customer management with phone, email, and ID records.
+- **Financial Tracker**: Income vs. expense ledger and net profit calculation.
+- **AI Staff Assistant**: Intelligent AI assistant for staff to query availability, today's revenue, and room recommendations in Thai.
+- **Hotel Settings**: Configurable hotel policies, PromptPay ID, VAT rate, and operating times.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
